@@ -2,14 +2,14 @@ moro elon musk **miten menee**.
 
 # test-repository
 ## moi
-### oon pieni teksti
-#### auta
-##### oon kohta kadonnu
-###### jeee
+### github on hyvä
+#### opin hithub jippii
+##### kirjotan tekstiä
+###### :D
 
 <ol>
-  <li>blaa blaa</li>
+  <li>toivon että saan hienon repon</li>
   <li>blaa bla</li>
-  <li>blaa bl</li>
-  <li>blaa</li>
+  <li>blaa blaa</li>
+  <li>blaa blaa</li>
 </ol>
