@@ -1,4 +1,7 @@
-moro elon musk **miten menee**.
+> #### hieno read me
+>
+> - tervetuloa mun read me tiedostoo
+>  tää on mun **eka** read me jippii.
 
 # test-repository
 ## moi
@@ -8,7 +11,7 @@ moro elon musk **miten menee**.
 ###### :D
 
 <ol>
-  <li>toivon että saan hienon repon</li>
+  <li>toivon että saan teen repon</li>
   <li>blaa bla</li>
   <li>blaa blaa</li>
   <li>blaa blaa</li>
