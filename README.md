@@ -31,4 +31,4 @@ toivon että joulupukki antaa mulle `risuja ja hiiltä`.
 2. joskus tosi tylsää
 3. joo siin about kaikki
 
-![tf]([https://i.ibb.co/QnKBdFQ/bateman.png](https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Trollface_non-free.png/220px-Trollface_non-free.png) "trollface")
+![tf]([[https://i.ibb.co/QnKBdFQ/bateman.png](https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Trollface_non-free.png/220px-Trollface_non-free.png](https://en.wikipedia.org/wiki/File:Trollface_non-free.png)) "trollface")
