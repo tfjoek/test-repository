@@ -10,9 +10,20 @@
 ##### kirjotan tekstiä
 ###### :D
 
-<ol>
-  <li>toivon että saan teen repon</li>
-  <li>blaa bla</li>
-  <li>blaa blaa</li>
-  <li>blaa blaa</li>
-</ol>
+
+- toivon että saan teen repon
+- blaa bla
+- blaa blaa
+- blaa blaa
+
+## sytä miks koulu on kivaa
+- koulu on tosi kivaa
+- se on hauskaa
+- ja jännittävää
+
+## syitä miks koulu ei oo kivaa
+1. tylsää
+2. joskus tosi tylsää
+3. joo siin about kaikki
+
+![The San Juan Mountains are beautiful!](https://i.ibb.co/QnKBdFQ/bateman.png "bateman")
