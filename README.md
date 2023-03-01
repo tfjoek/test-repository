@@ -10,8 +10,9 @@
 ##### kirjotan tekstiä
 ###### :D
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; hieno sisennys
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; jeeee
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; jippikaijee
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; wuuhuu
 
 - toivon että saan teen repon
 - blaa bla
@@ -28,4 +29,4 @@
 2. joskus tosi tylsää
 3. joo siin about kaikki
 
-![The San Juan Mountains are beautiful!](https://i.ibb.co/QnKBdFQ/bateman.png "bateman")
+![pat bat](https://i.ibb.co/QnKBdFQ/bateman.png "bateman")
